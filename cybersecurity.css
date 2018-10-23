@@ -1,0 +1,579 @@
+.cybersecurity {
+   background-color: black;
+   font-size: 40px;
+   font-style: italic;
+   border-radius: 20px;
+   margin-left: 250px;
+   margin-right: 250px;
+   color: white;
+   border: 8px solid #22b5d6;
+   padding: 12px 14px;
+   text-align: center;
+   margin-bottom: 55px;
+}
+
+.tablinkC {
+  background-color: black;
+  color: white;
+  margin-left: 55px;
+  margin-right: -15px;
+  border: 8px solid #22b5d6;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 20px;
+  width: 25%;
+  font: italic;
+  border-radius: 20px;
+  font-style: italic;
+}
+
+.tablinkC:hover {
+  background-color: white;
+}
+
+.tablinkA {
+  background-color: black;
+  color: white;
+  margin-left: 55px;
+  margin-right: -10px;
+  border: 8px solid #22b5d6;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 20px;
+  width: 25%;
+  font: italic;
+  border-radius: 20px;
+  font-style: italic;
+}
+
+.tablinkA:hover {
+  background-color: white;
+}
+
+.tablinkM {
+  background-color: black;
+  color: white;
+  margin-left: 55px;
+  margin-right: -13px;
+  border: 8px solid #22b5d6;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 20px;
+  width: 25%;
+  font: italic;
+  border-radius: 20px;
+  font-style: italic;
+}
+
+.tablinkM:hover {
+  background-color: white;
+}
+
+.tablinkP {
+  background-color: black;
+  color: white;
+  margin-left: 55px;
+  margin-right: -12px;
+  border: 8px solid #22b5d6;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 20px;
+  width: 25%;
+  font: italic;
+  border-radius: 20px;
+  font-style: italic;
+}
+
+.tablinkP:hover {
+  background-color: white;
+}
+
+.tablinkF {
+  background-color: black;
+  color: white;
+  margin-left: 55px;
+  margin-right: -9px;
+  border: 8px solid #22b5d6;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 20px;
+  width: 25%;
+  font: italic;
+  border-radius: 20px;
+  font-style: italic;
+}
+
+.tablinkF:hover {
+  background-color: white;
+}
+
+.tablinkE {
+  background-color: black;
+  color: white;
+  margin-left: 55px;
+  margin-right: -11px;
+  border: 8px solid #22b5d6;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 20px;
+  width: 25%;
+  font: italic;
+  border-radius: 20px;
+  font-style: italic;
+}
+
+.tablinkE:hover {
+  background-color: white;
+}
+
+.tablinkRES {
+  background-color: black;
+  color: white;
+  margin-left: 55px;
+  margin-right: 0px;
+  border: 8px solid #22b5d6;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 20px;
+  width: 25%;
+  font: italic;
+  border-radius: 20px;
+  font-style: italic;
+}
+
+.tablinkRES:hover {
+  background-color: white;
+}
+
+.tablinkREF {
+  background-color: black;
+  color: white;
+  margin-left: 55px;
+  margin-right: -10px;
+  border: 8px solid #22b5d6;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 20px;
+  width: 25%;
+  font: italic;
+  border-radius: 20px;
+  font-style: italic;
+}
+
+.tablinkREF:hover {
+  background-color: white;
+}
+
+.tabs {
+   background-color: black;
+   font-size: 40px;
+   font-style: italic;
+   border-radius: 20px;
+   margin-left: 250px;
+   margin-right: 250px;
+   color: white;
+   border: 8px solid #22b5d6;
+   padding: 12px 14px;
+   text-align: center;
+   margin-top: 50px;
+   margin-bottom: 0px;
+  }
+
+.def {
+  font-size: 25px;
+  color: white;
+  background: black;
+  border: 8px solid #22b5d6;
+  text-align: center;
+  margin-top: -10px;
+  border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hello {
+  margin-left: 70px;
+  margin-top: 40px;
+  margin-right: 65px;
+  font-size: 17px;
+  border: 10px solid red;
+  color: green;
+  background: black;
+  text-align: center;
+  margin-bottom: 21px;
+  border-radius: 20px;
+  padding: -30px -10px;
+
+}
+
+.pizzatype {
+  column-count: 1;
+  float: left;
+  margin-right: 180px;
+  margin-left: 220px;
+  margin-top: -15px;
+  border-color: red;
+  border-width: 5px;
+  border-radius: 20px;
+  border: 10px solid red;
+  padding: 20px;
+  background-color: black;
+  color: green;
+ }
+
+.tab3{
+  background-color: black;
+  color: red;
+  margin-left: 275px;
+  margin-right: 95px;
+  border: 8px solid green;
+  outline: none;
+  padding: 14px 16px;
+  width: 25%;
+  font-size: 25px;
+  border-radius: 20px;
+  font-style: italic;
+}
+
+.emp{
+  margin-top: 45px;
+}
+
+.emp h3{
+  column-count: 1;
+  margin-left: 300px;
+  color: white;
+  margin-top: 30px;
+}
+
+.emp p{
+  float: right;
+  margin-right: 250px;
+  margin-top: -43.1px;
+  font-size: 20px;
+  border-radius: 20px;
+  color: white;
+}
+
+.emp1 p{
+  float: right;
+  margin-right: -180px;
+  margin-top: -10px;
+  font-size: 20px;
+  border-radius: 20px;
+  color: white;
+}
+
+.work{
+  background-color: black;
+  color: green;
+  float: right;
+  margin-right: -195px;
+  margin-top: 50px;
+  border: 8px solid red;
+  outline: none;
+  padding: 14px 18px;
+  width: 115px;
+  height: 35px;
+  font-size: 26px;
+  border-radius: 20px;
+  font-style: italic;
+}
+
+.work:hover {
+  background-color: white;
+}
+
+.pizzatype1 {
+  float: left;
+  margin-left: 35px;
+  margin-right: 645px;
+  border-color: red;
+  border-width: 5px;
+  border-radius: 20px;
+  border: 10px solid red;
+  padding: 15px;
+  background-color: black;
+  color: green;
+  margin-top: 25px;
+ }
+
+ .tabsA {
+  color: red;
+  text-align: center;
+  width: 22%;
+  margin-left: 200px;
+  height: 55px;
+  padding: 10px;
+  border: 8px solid green;
+  background-color: black;
+  font-size: 45px;
+  margin-top: 50px;
+  border-radius: 20px;
+  font-style: italic;
+  }
+
+.tabsS {
+  color: red;
+  text-align: center;
+  width: 22%;
+  margin-left: 415px;
+  height: 55px;
+  padding: 10px;
+  border: 8px solid green;
+  background-color: black;
+  font-size: 45px;
+  margin-top: 50px;
+  border-radius: 20px;
+  font-style: italic;
+  }
+
+.salad {
+  float: right;
+  margin-right: 40px;
+  margin-left: 60px;
+  border-color: red;
+  border-width: 5px;
+  border-radius: 20px;
+  border: 10px solid red;
+  padding: 10px;
+  background-color: black;
+  color: green;
+  margin-top: -826px;
+  border-radius: 20px;
+ }
+
+.app {
+  float: left;
+  margin-left: 40px;
+  margin-right: 630px;
+  border-color: red;
+  border-width: 5px;
+  border: 10px solid red;
+  padding: 8px;
+  background-color: black;
+  color: green;
+  margin-top: 50px;
+  border-radius: 20px;
+ }
+
+ .tabsP {
+  color: red;
+  text-align: center;
+  width: 13%;
+  float: left;
+  margin-left: 215px;
+  height: 55px;
+  padding: 10px;
+  border: 8px solid green;
+  background-color: black;
+  font-size: 45px;
+  margin-top: 30px;
+  border-radius: 20px;
+  font-style: italic;
+  }
+
+.tabsD {
+  color: red;
+  text-align: center;
+  width: 13%;
+  float: right;
+  margin-right: 225px;
+  height: 55px;
+  padding: 10px;
+  border: 8px solid green;
+  background-color: black;
+  font-size: 45px;
+  margin-top: 30px;
+  border-radius: 20px;
+  font-style: italic;
+  }
+
+.dessert {
+  float: right;
+  margin-right: 40px;
+  margin-left: 650px;
+  border-width: 5px;
+  border-radius: 20px;
+  border: 10px solid red;
+  padding: 10px;
+  background-color: black;
+  color: green;
+  margin-top: -405px;
+  border-radius: 20px;
+ }
+  
+.month {
+  background-color: black;
+  color: red;
+  margin-left: 225px;
+  margin-right: 95px;
+  border: 8px solid green;
+  outline: none;
+  padding: 14px 16px;
+  width: 25%;
+  font-size: 25px;
+  border-radius: 20px;
+}
+
+.order {
+  color: red;
+  text-align: center;
+  width: 20%;
+  float: left;
+  margin-left: 480px;
+  height: 39px;
+  padding: 5px;
+  border: 8px solid green;
+  background-color: black;
+  font-size: 40px;
+  border-radius: 20px;
+  margin-top: -5px;
+  font-style: italic;
+}
+
+.order:hover{
+  background-color: white;
+}
+
+.crust{
+  text-align: center;
+  color: red;
+  margin-left: -45px;
+  margin-top: -20px;
+  font-style: italic;
+}
+
+.crust1{
+  margin-left: -50px;
+  text-align: center;
+  color: green;
+  margin-top: 25px;
+}
+
+.sauce{
+  margin-left: -50px;
+  margin-top: 1000px;
+  color: red;
+  text-align: center;
+  font-style: italic;
+}
+
+.sauce1{
+  margin-left: -50px;
+  color: green;
+  text-align: center;
+  margin-top: 25px;
+}
+
+.cheese1{
+  margin-right: 25px;
+  color: green;
+  text-align: center;
+  margin-top: -175px;
+}
+
+.cheese{
+  color: red;
+  margin-top: 600px; 
+  margin-bottom: 200px;
+  font-style: italic;
+
+}
+
+.top{
+  margin-right: 0px;
+  margin-top: 800px;
+  text-align: center;
+  color: red;
+  font-style: italic;
+}
+
+.top1{
+  margin-right: 0px;
+  color: green;
+  text-align: center;
+  margin-top: 25px;
+}
+
+.create{
+  column-count: 4;
+  float: left;
+  margin-left: 345px;
+  border-color: red;
+  border-radius: 20px;
+  border: 10px solid red;
+  padding: 50px;
+  background-color: black;
+  color: green;
+  margin-top: 35px;
+}
+
+.own{
+  color: red;
+  text-align: center;
+  float: left;
+  width: 40%;
+  margin-left: 375px;
+  font-size: 19px;
+  border: 8px solid green;
+  border-radius: 20px;
+  background-color: black;
+  margin-top: 20px;
+  font-style: italic;
+}
+
+.des{
+  margin-top: 1000px;
+  text-align: center;
+  color: green;
+  background-color: black;
+  border: 8px solid green;
+  border-radius: 10px;
+  margin-left: 155px;
+  margin-right: 150px;
+  padding: 5px;
+}
+
+@media only screen and (max-width: 300px) {
+    body {
+        width: 300px;   
+    }
+}
