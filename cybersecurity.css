@@ -188,8 +188,9 @@
   }
 
 .def {
-  font-size: 25px;
+  font-size: 27px;
   color: white;
+  font-style: italic;
   background: black;
   border: 8px solid #22b5d6;
   text-align: center;
@@ -197,6 +198,7 @@
   border-radius: 20px;
   margin-left: -6px;
   margin-right: -6px;
+  padding: 0px 0px;
 }
 
 
