@@ -576,8 +576,8 @@
   padding: 5px;
 }
 
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 530px) {
     body {
-        width: 300px;   
+        width: 530px;   
     }
 }
