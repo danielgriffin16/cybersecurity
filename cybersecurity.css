@@ -3,8 +3,8 @@
    font-size: 40px;
    font-style: italic;
    border-radius: 20px;
-   margin-left: 250px;
-   margin-right: 250px;
+   margin-left: 320px;
+   margin-right: 320px;
    color: white;
    border: 8px solid #22b5d6;
    padding: 12px 14px;
@@ -195,6 +195,8 @@
   text-align: center;
   margin-top: -10px;
   border-radius: 20px;
+  margin-left: -6px;
+  margin-right: -6px;
 }
 
 
