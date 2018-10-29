@@ -309,31 +309,18 @@
  }
 
  .traits {
+  color: red;
+  text-align: center;
+  width: 22%;
+  margin-left: 200px;
+  height: 55px;
+  padding: 10px;
+  border: 8px solid green;
   background-color: black;
-  color: white;
-  margin-left: 250px;
-  border: 8px solid #22b5d6;
-  padding: 14px 16px;
-  font-size: 25px;
-  font: italic;
+  font-size: 45px;
+  margin-top: 1px;
   border-radius: 20px;
   font-style: italic;
-  width: 100%;
-  margin-top: 20px;
-  }
-
-.intrests {
-  background-color: black;
-  color: white;
-  margin-left:525px;
-  border: 8px solid #22b5d6;
-  padding: 14px 16px;
-  font-size: 25px;
-  font: italic;
-  border-radius: 20px;
-  font-style: italic;
-  width: 100%;
-  margin-top: 20px;
   }
 
 .salad {
@@ -351,7 +338,7 @@
   border-radius: 20px;
  }
 
-.desT{
+.descriptionT{
   float: left;
   margin-left: 40px;
   margin-right: 630px;
@@ -542,3 +529,16 @@
   margin-right: 150px;
   padding: 5px;
 }
+intrests {
+  background-color: black;
+  color: white;
+  margin-left:525px;
+  border: 8px solid #22b5d6;
+  padding: 14px 16px;
+  font-size: 25px;
+  font: italic;
+  border-radius: 20px;
+  font-style: italic;
+  width: 100%;
+  margin-top: 200px;
+  }
