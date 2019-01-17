@@ -338,6 +338,21 @@
   border-radius: 20px;
  }
 
+.app{
+  float: left;
+  margin-left: 40px;
+  margin-right: 60px;
+  border-color: red;
+  border-width: 5px;
+  border-radius: 20px;
+  border: 10px solid red;
+  padding: 10px;
+  background-color: black;
+  color: green;
+  margin-top: -826px;
+  border-radius: 20px;
+ }
+
 .descriptionT{
   float: left;
   margin-left: 40px;
@@ -351,6 +366,22 @@
   margin-top: 50px;
   border-radius: 20px;
  }
+
+.tabsS {
+  color: red;
+  text-align: center;
+  width: 13%;
+  float: left;
+  margin-left: 215px;
+  height: 55px;
+  padding: 10px;
+  border: 8px solid green;
+  background-color: black;
+  font-size: 45px;
+  margin-top: 30px;
+  border-radius: 20px;
+  font-style: italic;
+  }
 
  .tabsP {
   color: red;
@@ -529,7 +560,8 @@
   margin-right: 150px;
   padding: 5px;
 }
-intrests {
+
+.intrests {
   background-color: black;
   color: white;
   margin-left:525px;
