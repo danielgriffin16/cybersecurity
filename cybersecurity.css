@@ -172,7 +172,7 @@
   background-color: #22b5d6;
 }
 
-.tabs {
+.tab {
    background-color: black;
    font-size: 40px;
    font-style: italic;
@@ -201,36 +201,6 @@
   padding: 0px 0px;
 }
 
-.hello {
-  margin-left: 70px;
-  margin-top: 40px;
-  margin-right: 65px;
-  font-size: 17px;
-  border: 10px solid red;
-  color: green;
-  background: black;
-  text-align: center;
-  margin-bottom: 21px;
-  border-radius: 20px;
-  padding: -30px -10px;
-
-}
-
-.pizzatype {
-  column-count: 1;
-  float: left;
-  margin-right: 180px;
-  margin-left: 220px;
-  margin-top: -15px;
-  border-color: red;
-  border-width: 5px;
-  border-radius: 20px;
-  border: 10px solid red;
-  padding: 20px;
-  background-color: black;
-  color: green;
- }
-
 .tab3{
   background-color: black;
   color: red;
@@ -245,83 +215,18 @@
   font-style: italic;
 }
 
-.emp{
-  margin-top: 45px;
-}
-
-.emp h3{
-  column-count: 1;
-  margin-left: 300px;
-  color: white;
-  margin-top: 30px;
-}
-
-.emp p{
-  float: right;
-  margin-right: 250px;
-  margin-top: -43.1px;
-  font-size: 20px;
-  border-radius: 20px;
-  color: white;
-}
-
-.emp1 p{
-  float: right;
-  margin-right: -180px;
-  margin-top: -10px;
-  font-size: 20px;
-  border-radius: 20px;
-  color: white;
-}
-
-.work{
-  background-color: black;
-  color: green;
-  float: right;
-  margin-right: -195px;
-  margin-top: 50px;
-  border: 8px solid red;
-  outline: none;
-  padding: 14px 18px;
-  width: 115px;
-  height: 35px;
-  font-size: 26px;
-  border-radius: 20px;
-  font-style: italic;
-}
-
-.work:hover {
-  background-color: white;
-}
-
-.pizzatype1 {
-  float: left;
-  margin-left: 35px;
-  margin-right: 645px;
-  border-color: red;
+.about {
+  margin-right: 660px;
+  border-color: #22b5d6;
   border-width: 5px;
   border-radius: 20px;
-  border: 10px solid red;
+  border: 10px solid #22b5d6;
   padding: 15px;
   background-color: black;
   color: green;
-  margin-top: 25px;
+  margin-top: 150px;
+  margin-left: 55px;
  }
-
- .traits {
-  color: red;
-  text-align: center;
-  width: 22%;
-  margin-left: 200px;
-  height: 55px;
-  padding: 10px;
-  border: 8px solid green;
-  background-color: black;
-  font-size: 45px;
-  margin-top: 1px;
-  border-radius: 20px;
-  font-style: italic;
-  }
 
 .salad {
   float: right;
@@ -353,32 +258,18 @@
   border-radius: 20px;
  }
 
-.descriptionT{
-  float: left;
-  margin-left: 40px;
-  margin-right: 630px;
-  border-color: red;
-  border-width: 5px;
-  border: 10px solid red;
-  padding: 8px;
-  background-color: black;
-  color: green;
-  margin-top: 50px;
-  border-radius: 20px;
- }
-
 .tabsS {
-  color: red;
+  color: white;
   text-align: center;
-  width: 13%;
+  width: 12%;
   float: left;
-  margin-left: 215px;
-  height: 55px;
-  padding: 10px;
-  border: 8px solid green;
+  margin-left: 240px;
+  height: 50px;
+  padding: 6px;
+  border: 8px solid #22b5d6;
   background-color: black;
-  font-size: 45px;
-  margin-top: 30px;
+  font-size: 40px;
+  margin-top: 55px;
   border-radius: 20px;
   font-style: italic;
   }
@@ -429,148 +320,3 @@
   border-radius: 20px;
  }
   
-.month {
-  background-color: black;
-  color: red;
-  margin-left: 225px;
-  margin-right: 95px;
-  border: 8px solid green;
-  outline: none;
-  padding: 14px 16px;
-  width: 25%;
-  font-size: 25px;
-  border-radius: 20px;
-}
-
-.order {
-  color: red;
-  text-align: center;
-  width: 20%;
-  float: left;
-  margin-left: 480px;
-  height: 39px;
-  padding: 5px;
-  border: 8px solid green;
-  background-color: black;
-  font-size: 40px;
-  border-radius: 20px;
-  margin-top: -5px;
-  font-style: italic;
-}
-
-.order:hover{
-  background-color: white;
-}
-
-.crust{
-  text-align: center;
-  color: red;
-  margin-left: -45px;
-  margin-top: -20px;
-  font-style: italic;
-}
-
-.crust1{
-  margin-left: -50px;
-  text-align: center;
-  color: green;
-  margin-top: 25px;
-}
-
-.sauce{
-  margin-left: -50px;
-  margin-top: 1000px;
-  color: red;
-  text-align: center;
-  font-style: italic;
-}
-
-.sauce1{
-  margin-left: -50px;
-  color: green;
-  text-align: center;
-  margin-top: 25px;
-}
-
-.cheese1{
-  margin-right: 25px;
-  color: green;
-  text-align: center;
-  margin-top: -175px;
-}
-
-.cheese{
-  color: red;
-  margin-top: 600px; 
-  margin-bottom: 200px;
-  font-style: italic;
-
-}
-
-.top{
-  margin-right: 0px;
-  margin-top: 800px;
-  text-align: center;
-  color: red;
-  font-style: italic;
-}
-
-.top1{
-  margin-right: 0px;
-  color: green;
-  text-align: center;
-  margin-top: 25px;
-}
-
-.create{
-  column-count: 4;
-  float: left;
-  margin-left: 345px;
-  border-color: red;
-  border-radius: 20px;
-  border: 10px solid red;
-  padding: 50px;
-  background-color: black;
-  color: green;
-  margin-top: 35px;
-}
-
-.own{
-  color: red;
-  text-align: center;
-  float: left;
-  width: 40%;
-  margin-left: 375px;
-  font-size: 19px;
-  border: 8px solid green;
-  border-radius: 20px;
-  background-color: black;
-  margin-top: 20px;
-  font-style: italic;
-}
-
-.des{
-  margin-top: 1000px;
-  text-align: center;
-  color: green;
-  background-color: black;
-  border: 8px solid green;
-  border-radius: 10px;
-  margin-left: 155px;
-  margin-right: 150px;
-  padding: 5px;
-}
-
-.intrests {
-  background-color: black;
-  color: white;
-  margin-left:525px;
-  border: 8px solid #22b5d6;
-  padding: 14px 16px;
-  font-size: 25px;
-  font: italic;
-  border-radius: 20px;
-  font-style: italic;
-  width: 100%;
-  margin-top: 200px;
-  }
