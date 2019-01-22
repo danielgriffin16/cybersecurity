@@ -198,7 +198,7 @@
   border-radius: 20px;
   margin-left: -6px;
   margin-right: -6px;
-  padding: 0px 0px;
+  height: 125px;
 }
 
 .tab3{
@@ -216,54 +216,24 @@
 }
 
 .about {
-  margin-right: 660px;
+  margin-right: 200px;
   border-color: #22b5d6;
   border-width: 5px;
   border-radius: 20px;
-  border: 10px solid #22b5d6;
+  border: 8px solid #22b5d6;
   padding: 15px;
   background-color: black;
   color: green;
-  margin-top: 150px;
-  margin-left: 55px;
+  margin-top: 125px;
+  margin-left: 200px;
  }
 
-.salad {
-  float: right;
-  margin-right: 40px;
-  margin-left: 60px;
-  border-color: red;
-  border-width: 5px;
-  border-radius: 20px;
-  border: 10px solid red;
-  padding: 10px;
-  background-color: black;
-  color: green;
-  margin-top: -826px;
-  border-radius: 20px;
- }
-
-.app{
-  float: left;
-  margin-left: 40px;
-  margin-right: 60px;
-  border-color: red;
-  border-width: 5px;
-  border-radius: 20px;
-  border: 10px solid red;
-  padding: 10px;
-  background-color: black;
-  color: green;
-  margin-top: -826px;
-  border-radius: 20px;
- }
-
-.tabsS {
+.tabsO {
   color: white;
   text-align: center;
-  width: 12%;
+  width: 13%;
   float: left;
-  margin-left: 240px;
+  margin-left: 535px;
   height: 50px;
   padding: 6px;
   border: 8px solid #22b5d6;
@@ -274,49 +244,19 @@
   font-style: italic;
   }
 
- .tabsP {
-  color: red;
+.tabsMM {
+  color: white;
   text-align: center;
-  width: 13%;
+  width: 18%;
   float: left;
-  margin-left: 215px;
-  height: 55px;
-  padding: 10px;
-  border: 8px solid green;
+  margin-left: 500px;
+  height: 50px;
+  padding: 6px;
+  border: 8px solid #22b5d6;
   background-color: black;
-  font-size: 45px;
-  margin-top: 30px;
+  font-size: 40px;
+  margin-top: 55px;
   border-radius: 20px;
   font-style: italic;
   }
 
-.tabsD {
-  color: red;
-  text-align: center;
-  width: 13%;
-  float: right;
-  margin-right: 225px;
-  height: 55px;
-  padding: 10px;
-  border: 8px solid green;
-  background-color: black;
-  font-size: 45px;
-  margin-top: 30px;
-  border-radius: 20px;
-  font-style: italic;
-  }
-
-.dessert {
-  float: right;
-  margin-right: 40px;
-  margin-left: 650px;
-  border-width: 5px;
-  border-radius: 20px;
-  border: 10px solid red;
-  padding: 10px;
-  background-color: black;
-  color: green;
-  margin-top: -405px;
-  border-radius: 20px;
- }
-  
