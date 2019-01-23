@@ -216,7 +216,7 @@
 }
 
 .about {
-  margin-right: 200px;
+  margin-right: 220px;
   border-color: #22b5d6;
   border-width: 5px;
   border-radius: 20px;
@@ -260,3 +260,22 @@
   font-style: italic;
   }
 
+.image img{
+  margin-top: -150px;
+  margin-left: 15px;
+  border: 8px solid #22b5d6;
+  border-radius: 20px;
+}
+
+.aboutM {
+  margin-right: 250px;
+  border-color: #22b5d6;
+  border-width: 5px;
+  border-radius: 20px;
+  border: 8px solid #22b5d6;
+  padding: 15px;
+  background-color: black;
+  color: green;
+  margin-top: 125px;
+  margin-left: 250px;
+ }
