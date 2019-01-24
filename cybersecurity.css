@@ -233,7 +233,7 @@
   text-align: center;
   width: 13%;
   float: left;
-  margin-left: 535px;
+  margin-left: 525px;
   height: 50px;
   padding: 6px;
   border: 8px solid #22b5d6;
@@ -278,4 +278,20 @@
   color: green;
   margin-top: 125px;
   margin-left: 250px;
+ }
+
+ .field {
+  color: white;
+  text-align: center;
+  width: 22%;
+  float: left;
+  margin-left: 469px;
+  height: 50px;
+  padding: 6px;
+  border: 8px solid #22b5d6;
+  background-color: black;
+  font-size: 40px;
+  margin-top: 55px;
+  border-radius: 20px;
+  font-style: italic;
  }
