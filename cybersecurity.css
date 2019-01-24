@@ -216,7 +216,7 @@
 }
 
 .about {
-  margin-right: 220px;
+  margin-right: 250px;
   border-color: #22b5d6;
   border-width: 5px;
   border-radius: 20px;
@@ -225,7 +225,7 @@
   background-color: black;
   color: green;
   margin-top: 125px;
-  margin-left: 200px;
+  margin-left: 250px;
  }
 
 .tabsO {
@@ -244,7 +244,7 @@
   font-style: italic;
   }
 
-.tabsMM {
+.tabsMF {
   color: white;
   text-align: center;
   width: 18%;
@@ -261,7 +261,7 @@
   }
 
 .image img{
-  margin-top: -150px;
+  margin-top: -155px;
   margin-left: 15px;
   border: 8px solid #22b5d6;
   border-radius: 20px;
@@ -337,5 +337,32 @@
   border-radius: 20px;
   margin-left: -8px;
   margin-right: -8px;
+  padding: 10px;
+ }
+
+ .prophead {
+  color: white;
+  text-align: center;
+  width: 33%;
+  float: left;
+  margin-left: 409px;
+  height: 50px;
+  padding: 6px;
+  border: 8px solid #22b5d6;
+  background-color: black;
+  font-size: 40px;
+  margin-top: 55px;
+  border-radius: 20px;
+  font-style: italic;
+ }
+
+ .prop {
+  color: white;
+  margin-top: 170px;
+  border: 8px solid #22b5d6;
+  background-color: black;
+  border-radius: 20px;
+  margin-left: 260px;
+  margin-right: 250px;
   padding: 10px;
  }
