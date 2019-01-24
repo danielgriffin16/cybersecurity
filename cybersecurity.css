@@ -12,6 +12,20 @@
    margin-bottom: 55px;
 }
 
+.cybersecurityH {
+   background-color: black;
+   font-size: 40px;
+   font-style: italic;
+   border-radius: 20px;
+   margin-left: 320px;
+   margin-right: 337px;
+   color: white;
+   border: 8px solid #22b5d6;
+   padding: 12px 14px;
+   text-align: center;
+   margin-bottom: 55px;
+}
+
 .tablinkC {
   background-color: black;
   color: white;
@@ -231,9 +245,9 @@
 .tabsO {
   color: white;
   text-align: center;
-  width: 13%;
+  width: 18%;
   float: left;
-  margin-left: 525px;
+  margin-left: 500px;
   height: 50px;
   padding: 6px;
   border: 8px solid #22b5d6;
