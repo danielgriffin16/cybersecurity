@@ -307,31 +307,9 @@
   padding: 10px;
  }
 
- .log2 {
+ .log {
   color: white;
-  margin-top: -25px;
-  border: 8px solid #22b5d6;
-  background-color: black;
-  border-radius: 20px;
-  margin-left: -8px;
-  margin-right: -8px;
-  padding: 10px;
- }
-
- .log3 {
-  color: white;
-  margin-top: -25px;
-  border: 8px solid #22b5d6;
-  background-color: black;
-  border-radius: 20px;
-  margin-left: -8px;
-  margin-right: -8px;
-  padding: 10px;
- }
-
- .log4 {
-  color: white;
-  margin-top: -25px;
+  margin-top: -15px;
   border: 8px solid #22b5d6;
   background-color: black;
   border-radius: 20px;
@@ -366,3 +344,43 @@
   margin-right: 250px;
   padding: 10px;
  }
+
+ .bib {
+  color: white;
+  text-align: center;
+  width: 34%;
+  float: left;
+  margin-left: 400px;
+  height: 50px;
+  padding: 6px;
+  border: 8px solid #22b5d6;
+  background-color: black;
+  font-size: 40px;
+  margin-top: 55px;
+  border-radius: 20px;
+  font-style: italic;
+  margin-right: 413px;
+ }
+
+ .NSA {
+  color: white;
+  margin-top: 170px;
+  border: 8px solid #22b5d6;
+  background-color: black;
+  border-radius: 20px;
+  margin-left: -8px;
+  margin-right: -8px;
+  padding: 10px;
+ }
+
+ .ComSec {
+  color: white;
+  margin-top: -10px;
+  border: 8px solid #22b5d6;
+  background-color: black;
+  border-radius: 20px;
+  margin-left: -8px;
+  margin-right: -8px;
+  padding: 10px;
+ }
+
