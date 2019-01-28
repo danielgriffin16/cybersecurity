@@ -192,7 +192,7 @@
    font-style: italic;
    border-radius: 20px;
    margin-left: 250px;
-   margin-right: 250px;
+   margin-right: 265px;
    color: white;
    border: 8px solid #22b5d6;
    padding: 12px 14px;
@@ -398,3 +398,18 @@
   padding: 10px;
  }
 
+.wifi {
+  color: white;
+  text-align: center;
+  width: 13%;
+  float: left;
+  margin-left: 200px;
+  height: 50px;
+  padding: 6px;
+  border: 8px solid #22b5d6;
+  background-color: black;
+  font-size: 40px;
+  margin-top: 55px;
+  border-radius: 20px;
+  font-style: italic;
+}
