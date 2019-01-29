@@ -413,3 +413,11 @@
   border-radius: 20px;
   font-style: italic;
 }
+
+.netsh img {
+  margin-top: 150px;
+  margin-left: -300px;
+  border: 8px solid #22b5d6;
+  border-radius: 20px;
+  width: 400px;
+}
