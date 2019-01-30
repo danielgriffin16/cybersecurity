@@ -235,11 +235,13 @@
   border-width: 5px;
   border-radius: 20px;
   border: 8px solid #22b5d6;
-  padding: 15px;
+  padding: 6px;
   background-color: black;
-  color: green;
-  margin-top: 125px;
+  color: white;
+  margin-top: 170px;
   margin-left: 250px;
+  text-align: center;
+  font-size: 16px;
  }
 
 .tabsO {
@@ -275,10 +277,11 @@
   }
 
 .image img{
-  margin-top: -155px;
-  margin-left: 15px;
+  float: left;
+  margin-top: -382px;
   border: 8px solid #22b5d6;
   border-radius: 20px;
+  margin-left: 15px;
 }
 
 .aboutM {
@@ -287,11 +290,13 @@
   border-width: 5px;
   border-radius: 20px;
   border: 8px solid #22b5d6;
-  padding: 15px;
+  padding: 6px;
   background-color: black;
-  color: green;
-  margin-top: 125px;
+  color: white;
+  margin-top: 170px;
   margin-left: 250px;
+  text-align: center;
+  font-size: 16px;
  }
 
  .field {
