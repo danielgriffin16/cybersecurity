@@ -434,3 +434,19 @@
   border-radius: 20px;
   width: 400px;
 }
+
+.RS {
+  color: white;
+  text-align: center;
+  width: 25%;
+  float: right;
+  margin-right: 200px;
+  height: 50px;
+  padding: 6px;
+  border: 8px solid #22b5d6;
+  background-color: black;
+  font-size: 40px;
+  margin-top: 55px;
+  border-radius: 20px;
+  font-style: italic;
+}
