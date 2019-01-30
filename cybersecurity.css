@@ -202,7 +202,7 @@
   }
 
 .def {
-  font-size: 27px;
+  font-size: 30px;
   color: white;
   font-style: italic;
   background: black;
@@ -212,7 +212,7 @@
   border-radius: 20px;
   margin-left: -6px;
   margin-right: -6px;
-  height: 120px;
+
 }
 
 .tab3{
@@ -230,16 +230,16 @@
 }
 
 .about {
-  margin-right: 250px;
+  margin-right: 280px;
   border-color: #22b5d6;
   border-width: 5px;
   border-radius: 20px;
   border: 8px solid #22b5d6;
-  padding: 6px;
+  padding: 5px;
   background-color: black;
   color: white;
   margin-top: 170px;
-  margin-left: 250px;
+  margin-left: 280px;
   text-align: center;
   font-size: 16px;
  }
@@ -276,12 +276,12 @@
   font-style: italic;
   }
 
-.image img{
+.imageD img{
   float: left;
-  margin-top: -382px;
+  margin-top: -413px;
   border: 8px solid #22b5d6;
   border-radius: 20px;
-  margin-left: 15px;
+  margin-left: 30px;
 }
 
 .aboutM {
@@ -294,10 +294,18 @@
   background-color: black;
   color: white;
   margin-top: 170px;
-  margin-left: 250px;
+  margin-left: 260px;
   text-align: center;
   font-size: 16px;
  }
+
+ .imageM img{
+  float: left;
+  margin-top: -382px;
+  border: 8px solid #22b5d6;
+  border-radius: 20px;
+  margin-left: 20px;
+}
 
  .field {
   color: white;
