@@ -187,32 +187,36 @@
 }
 
 .tab {
-   background-color: black;
-   font-size: 40px;
-   font-style: italic;
-   border-radius: 20px;
-   margin-left: 250px;
-   margin-right: 265px;
-   color: white;
-   border: 8px solid #22b5d6;
-   padding: 12px 14px;
-   text-align: center;
-   margin-top: 50px;
-   margin-bottom: 0px;
+  color: white;
+  text-align: center;
+  width: 80%;
+  float: left;
+  margin-left: 100px;
+  height: 50px;
+  padding: 6px;
+  border: 8px solid #22b5d6;
+  background-color: black;
+  font-size: 40px;
+  margin-top: 55px;
+  border-radius: 20px;
+  font-style: italic;
+  margin-right: 100px;
   }
 
 .def {
-  font-size: 30px;
-  color: white;
-  font-style: italic;
-  background: black;
-  border: 8px solid #22b5d6;
-  text-align: center;
-  margin-top: -10px;
+  border-color: #22b5d6;
+  border-width: 5px;
   border-radius: 20px;
-  margin-left: -6px;
-  margin-right: -6px;
-
+  padding: 10px;
+  background-color: black;
+  color: white;
+  margin-top: 115px;
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+  height: 120px;
+  margin-left:100px;
+  margin-right: 140px;
 }
 
 .tab3{
